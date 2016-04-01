@@ -19,6 +19,9 @@
     "bugs": {
         "url": "https://github.com/rmariuzzo/Laravel-JS-Localization/issues"
     },
+    "dependencies": {
+        "lang.js": "~1.0.0"
+    },
     "devDependencies": {
         "jasmine-node": "~1.14.3"
     }
