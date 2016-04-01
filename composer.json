@@ -23,6 +23,10 @@
         "name": "Ramon Ackermann",
         "homepage": "https://github.com/sboo",
         "role": "Developer"
+    },{
+        "name": "André Hoendgen",
+        "homepage": "https://github.com/ahoendgen",
+        "role": "Developer"
     }],
     "support": {
         "issues": "https://github.com/rmariuzzo/laravel-js-localization/issues",
